@@ -2,7 +2,7 @@
 
 *NeuroStartUp* — динамически развивающийся стартап, специализирующийся на поиске с использованием новейших технологий искусственного интеллекта.
 
-![](https://netology-code.github.io/git-homeworks/introduction/assets/logo.png)
+![NeuroStartUp](https://netology-code.github.io/git-homeworks/introduction/assets/logo.png)
 
 Наши преимущества:
 - Высокая точность поиска
